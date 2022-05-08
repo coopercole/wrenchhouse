@@ -1,7 +1,7 @@
 /*https://coolors.co/f8f9fa-e9ecef-dee2e6-ced4da-adb5bd-6c757d-495057-343a40-212529*/
 :root {
 	/* black text: #212529, grey background: #e9ecef */
-	--background: #f3f4f6;
+	--background: #ffffff;
 	--text: #000000;
 }
 html {
@@ -53,11 +53,18 @@ body {
   text-align: center;
 }
 
-/* the contact page with links style */
-.links a {
-  color: var(--text);
-  text-decoration: none;
+img {
+	  /* top | right | bottom | left */
+	margin: 0% 0% 0% 0%;
+	max-width:15%;  
+	height: auto;
 }
+
+img#platinum {
+	max-width: 25%;
+	height: auto;
+}
+
 
 a:hover {
   /*background: radial-gradient(#858e96, #60696b);*/
