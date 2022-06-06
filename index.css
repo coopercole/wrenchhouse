@@ -29,7 +29,6 @@ body {
   h3 {
     color: var(--text);
     font-size: 3.05vh;
-    margin-bottom: 0;
   }
   p {
     color: var(--text);
