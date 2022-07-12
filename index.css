@@ -77,6 +77,16 @@ img#maxiroof {
 	height: auto;
 }
 
+img#casinoroyale {
+	max-width: 55%;
+	height: auto;
+}
+
+img#lawyerup {
+	max-width: 35%;
+	height: auto;
+}
+
 a:hover {
   /*background: radial-gradient(#858e96, #60696b);*/
   background: #60696b;
