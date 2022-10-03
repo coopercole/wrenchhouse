@@ -83,7 +83,12 @@ img#maxiroof {
 }
 
 img#casinoroyale {
-	max-width: 100%;
+	max-width: 60%;
+	height: auto;
+}
+
+img#casinonight {
+	max-width: 50%;
 	height: auto;
 }
 
