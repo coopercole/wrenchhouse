@@ -135,7 +135,12 @@ a:hover {
   .grid {
     grid-template-columns: 1fr;
   }
-  
+
+  img#wrenchfund_logo {
+    max-width: 45%;
+    height: auto;
+  }
+
 }
 
 .item {
