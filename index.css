@@ -34,14 +34,14 @@ body {
     color: var(--text);
     font-size: 3vh;
     padding: 0px;
-    text-align: left;
+    text-align: center;
     margin: 0;
   }
   li {
     color: var(--text);
     font-size: 3vh;
     padding: 0px;
-    text-align: left;
+    text-align: center;
     margin: 0;
   }
 
@@ -57,11 +57,11 @@ body {
   /* top | right | bottom | left */
   margin: 0% 15% 0% 15%;
   padding-bottom: 30px;
-  text-align: left;
+  text-align: center;
 }
 
 .content ul {
-  text-align: left;
+  text-align: center;
 }
 
 footer {
